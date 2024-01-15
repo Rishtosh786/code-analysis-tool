@@ -1,4 +1,5 @@
 #secret
 .env
 token_rotate.ipynb
+.ipynb_checkpoints/token_rotate.ipynb
 myvenv/
